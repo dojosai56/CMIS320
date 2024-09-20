@@ -1,0 +1,17 @@
+Customer
+
+Rentals
+
+Rental Expenses
+
+Charges Info
+
+Distributors
+
+Movie
+
+Directors
+
+Actors
+
+Academy Awards
